@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59b56b6a-99cb-416a-b0b0-e62bcc55a959" name="Changes" comment="change stringCalc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringCalculator.java" afterDir="false" />
+    <list default="true" id="59b56b6a-99cb-416a-b0b0-e62bcc55a959" name="Changes" comment="change stringCalcTest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringCalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringCalcTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655835903697</updated>
-      <workItem from="1655835906009" duration="577000" />
+      <workItem from="1655835906009" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="first message">
       <created>1655835920680</created>
@@ -98,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655836443380</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change stringCalc">
+      <created>1655836492259</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655836492259</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change stringCalcTest">
+      <created>1655836533373</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655836533373</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +135,7 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="add files" />
     <MESSAGE value="change stringCalc" />
-    <option name="LAST_COMMIT_MESSAGE" value="change stringCalc" />
+    <MESSAGE value="change stringCalcTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="change stringCalcTest" />
   </component>
 </project>
