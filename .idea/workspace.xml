@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59b56b6a-99cb-416a-b0b0-e62bcc55a959" name="Changes" comment="change stringCalcTest assert for Neg">
+    <list default="true" id="59b56b6a-99cb-416a-b0b0-e62bcc55a959" name="Changes" comment="wrote test cases -&gt; working through Travis CLI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/StringCalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringCalcTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655835903697</updated>
-      <workItem from="1655835906009" duration="1307000" />
+      <workItem from="1655835906009" duration="1670000" />
     </task>
     <task id="LOCAL-00001" summary="first message">
       <created>1655835920680</created>
@@ -124,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655836874858</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="wrote test cases -&gt; working through Travis CLI">
+      <created>1655837309191</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655837309191</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +156,7 @@
     <MESSAGE value="change stringCalc" />
     <MESSAGE value="change stringCalcTest" />
     <MESSAGE value="change stringCalcTest assert for Neg" />
-    <option name="LAST_COMMIT_MESSAGE" value="change stringCalcTest assert for Neg" />
+    <MESSAGE value="wrote test cases -&gt; working through Travis CLI" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrote test cases -&gt; working through Travis CLI" />
   </component>
 </project>
